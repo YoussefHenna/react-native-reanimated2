@@ -1,6 +1,6 @@
 import { RefObject, useEffect, useRef } from 'react';
 
-import type Animated from 'react-native-reanimated';
+import type Animated from '@youssefhenna/react-native-reanimated2';
 import { ScrollEvent } from './useAnimatedScrollHandler';
 import { SharedValue } from '../commonTypes';
 import { findNodeHandle } from 'react-native';
