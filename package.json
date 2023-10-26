@@ -1,7 +1,7 @@
 {
-  "name": "react-native-reanimated",
-  "version": "2.17.0",
-  "description": "More powerful alternative to Animated library for React Native.",
+  "name": "@youssefhenna/react-native-reanimated2",
+  "version": "2.18.0",
+  "description": "Reanimated v2 without any of the v3",
   "scripts": {
     "test": "yarn run format:js && yarn run lint:js && yarn run test:unit",
     "test:unit": "jest",
